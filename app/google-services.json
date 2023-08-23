@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730408214590",
+    "project_id": "audioposrecorder",
+    "storage_bucket": "audioposrecorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730408214590:android:22d743b5738f667133716f",
+        "android_client_info": {
+          "package_name": "com.example.audioposrecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730408214590-a8rbnpkr4eccjtq1aitdcl7odg4l1jo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAm_D_nuxHcHiZvtoVclpJOp8zq_6Dm9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730408214590-a8rbnpkr4eccjtq1aitdcl7odg4l1jo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
